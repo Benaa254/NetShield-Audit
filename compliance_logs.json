@@ -1,0 +1,23 @@
+[
+  {
+    "workstation_id": "KSG-EMB-WS01",
+    "ip_address": "192.168.10.15",
+    "os_verified": true,
+    "licensed": true,
+    "endpoint_security_updated": true
+  },
+  {
+    "workstation_id": "KSG-EMB-WS02",
+    "ip_address": "192.168.10.22",
+    "os_verified": true,
+    "licensed": false,
+    "endpoint_security_updated": true
+  },
+  {
+    "workstation_id": "KSG-EMB-WS03",
+    "ip_address": "192.168.11.45",
+    "os_verified": false,
+    "licensed": false,
+    "endpoint_security_updated": false
+  }
+]

@@ -1,0 +1,9 @@
+STANDARD OPERATING PROCEDURES (SOP) - NETWORK MITIGATION
+========================================================
+1. BROADCAST STORM DETECTED:
+   - Identify the source MAC/IP from network_alerts.log.
+   - Access the core switch interface via SSH and isolate the affected VLAN/subnet port.
+   
+2. NON-COMPLIANT WORKSTATION DETECTED:
+   - Flag terminals missing licensed OS or updated endpoint safety shields.
+   - Revoke domain connection privileges in Active Directory until patches are pushed.
